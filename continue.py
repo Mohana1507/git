@@ -12,5 +12,5 @@ for items in cart:
     if items<=500:
         print("checked",items)
         continue
-    print("this is below 500 cart")
+    print("this is below 500 cartsssssssss")
     
