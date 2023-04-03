@@ -13,4 +13,5 @@ for items in cart:
         print("checked",items)
         continue
     print("this is below 500 cart")
-    
+   
+print("hai")
