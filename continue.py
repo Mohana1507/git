@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+i# -*- coding: utf-8 -*-
 """
 Created on Sat Oct  3 19:51:09 2020
 
@@ -14,3 +14,5 @@ for items in cart:
         continue
     print("this is below 500 cart")
     
+else
+    print("INVALID")
